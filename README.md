@@ -17,8 +17,11 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> 
 
 *****
+   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Conbiction&layout=compact)](https://github.com/Conbiction/github-readme-stats)
 
- </div>
+*****
+
  
 😸Contact Point😸
 
@@ -27,9 +30,4 @@ Mobile : 010-9706-8608
 
   
 *****
-[![Conbiction's GitHub stats](https://github-readme-stats.vercel.app/api?username=Conbiction&theme=vue)](https://github.com/Conbiction/github-readme-stats)
 
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Conbiction&layout=compact)](https://github.com/Conbiction/github-readme-stats)
-
-</div>
