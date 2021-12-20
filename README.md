@@ -1,5 +1,15 @@
-### Hi there 👋
+<div align="center">
+  
+ 뭔가를 개발한지 1년차입니다.👾
+
+</div>
+<div align="center">
+  
 *****
+  
+### This is my Skill Stacks.👀
+  
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=yellow"/> 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=NGINX&logoColor=white"/> 
@@ -8,17 +18,18 @@
 
 *****
 
-<!--
-**Conbiction/Conbiction** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ </div>
+ 
+😸Contact Point😸
 
-Here are some ideas to get you started:
+Email : ajemfld1@gmail.com<br>
+Mobile : 010-9706-8608
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+*****
+[![Conbiction's GitHub stats](https://github-readme-stats.vercel.app/api?username=Conbiction&theme=vue)](https://github.com/Conbiction/github-readme-stats)
+
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Conbiction&layout=compact)](https://github.com/Conbiction/github-readme-stats)
+
+</div>
