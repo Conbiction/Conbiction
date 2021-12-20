@@ -1,6 +1,6 @@
 <div align="center">
   
- 뭔가를 개발한지 1년차입니다.👾
+ 뭔가를 개발한지 1년이 되어갑니다.👾
 
 </div>
 <div align="center">
