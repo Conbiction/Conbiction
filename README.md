@@ -1,5 +1,13 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/Python-#3776AB??style=flat-square&logo=Python"/>
+*****
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=yellow"/> 
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=NGINX&logoColor=white"/> 
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> 
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> 
+
+*****
+
 <!--
 **Conbiction/Conbiction** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
